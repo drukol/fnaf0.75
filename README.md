@@ -12,3 +12,5 @@ $ sudo dnf install SDL2
 # build and run
 $ make run
 ```
+
+Original game, as well as most of the sprites used in this game, made by Scott Cawthon
